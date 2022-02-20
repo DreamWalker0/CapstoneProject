@@ -4,9 +4,4 @@ Authors:
 
 -Jorge Guzman Nader
 
--Xinyi Song
-
--Isaac Z Shih
-
--Brandon Marshall
 
